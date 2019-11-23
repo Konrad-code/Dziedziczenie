@@ -1,3 +1,8 @@
+manifest.mf
+build.xml
+/nbproject
+/build/
+
 # Compiled class file
 *.class
 
