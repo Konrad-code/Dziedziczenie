@@ -16,12 +16,12 @@ public abstract class Potwor {                      // Klasa abstrakcyjna; nie m
     
     public double getPredkoscPoruszania()
     {
-        return predkoscPoruszania;
+        return this.predkoscPoruszania;
     }
     
     public double getZywotnosc()
     {
-        return zywotnosc;
+        return this.zywotnosc;
     }
     
     public Potwor()
