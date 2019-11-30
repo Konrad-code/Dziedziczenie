@@ -4,11 +4,8 @@ import dziedziczenie.potwory.Potwor;
 
 public class Pajak extends Potwor
 {
-
-    @Override
     protected void opis()
     {
-        
+        // Metoda stanowiaca wymog utworzenia klasy narzucony przez super-klase.
     }
-    
 }

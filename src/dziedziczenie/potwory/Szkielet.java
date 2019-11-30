@@ -31,9 +31,8 @@ public class Szkielet extends Potwor
         System.out.println("Niedomyslny konstruktor z klasy Szkielet z trzema argumentami");        
     }
 
-    @Override
     protected void opis() 
     {
-        
+        // Metoda stanowiaca wymog utworzenia klasy narzucony przez super-klase.
     }
 }

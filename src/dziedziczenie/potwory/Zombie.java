@@ -7,9 +7,8 @@ public class Zombie extends Potwor
         System.out.println("Domyslny konstruktor z klasy Zombie");        
     }
 
-    @Override
     protected void opis()
     {
-        
+        // Metoda stanowiaca wymog utworzenia klasy narzucony przez super-klase.
     }
 }
