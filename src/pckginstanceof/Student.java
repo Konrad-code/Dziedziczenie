@@ -13,4 +13,9 @@ public class Student extends Osoba
         System.out.println("Imię: " + this.getImie());
         System.out.println("Nazwisko: " + this.getNazwisko());
     }
+    
+    void uczSie()
+    {
+        System.out.println("Już idę się uczyć!...");
+    }
 }
